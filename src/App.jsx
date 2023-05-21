@@ -11,7 +11,6 @@ import {
   Sidebar,
   ThemeSettings,
   LineChart,
-  LineChart2,
 } from './components';
 
 import {
